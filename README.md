@@ -40,7 +40,7 @@ python TalkGPT.py
 ## Notes
 
 The conversation is saved in a json file to allow maintaining a conversation over longer time.
-You can manually clear the chathistory.txt file, or comment out the .loadMessages() call.
+You can manually clear the chathistory.json file, or comment out the .loadMessages() call if desired.
 
 ## Limitations
 Accurately recognising when the user speaks.
